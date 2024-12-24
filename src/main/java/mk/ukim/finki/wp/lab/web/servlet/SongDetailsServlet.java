@@ -1,4 +1,3 @@
-/*
 package mk.ukim.finki.wp.lab.web.servlet;
 
 
@@ -50,4 +49,3 @@ public class SongDetailsServlet extends HttpServlet {
         springTemplateEngine.process("songDetails.html", context, resp.getWriter());
     }
 }
-*/

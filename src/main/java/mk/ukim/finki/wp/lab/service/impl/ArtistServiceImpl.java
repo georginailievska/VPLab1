@@ -9,7 +9,6 @@ import java.util.List;
 
 @Service
 public class ArtistServiceImpl implements ArtistService {
-
     private final ArtistRepository artistRepository;
 
     public ArtistServiceImpl(ArtistRepository artistRepository) {

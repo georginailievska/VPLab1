@@ -1,4 +1,3 @@
-/*
 package mk.ukim.finki.wp.lab.web.servlet;
 
 import jakarta.servlet.annotation.WebServlet;
@@ -47,4 +46,3 @@ public class SongListServlet extends HttpServlet {
     }
 
 }
-*/
